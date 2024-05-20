@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142751966885",
+    "project_id": "broadminds-47c37",
+    "storage_bucket": "broadminds-47c37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142751966885:android:4ae3789d636b12e8030f4c",
+        "android_client_info": {
+          "package_name": "com.example.broadminds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtM836qaOMPuxQFzhZMqsZ-WUW_8_ND8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
